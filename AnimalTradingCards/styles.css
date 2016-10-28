@@ -1,0 +1,35 @@
+/* add your CSS here */
+.card {
+	width: 300px;
+	border: 1px solid gray;
+	border-color: #d3d3d3;
+	padding: 10px;
+	box-shadow: 5px 5px 2px #d3d3d3;
+}
+
+.image {
+	width: 300px;
+	height: 200px;
+}
+
+.info {
+	font-size: 12px;
+	border: 1px solid gray;
+	border-color: #d3d3d3;
+	padding: 8px;
+	padding-top: 0px;
+	margin-top: 10px;
+}
+
+.plain-list {
+	list-style-type: none;
+	padding-left: 0;
+}
+
+.label {
+	font-weight: bold;
+}
+
+.interesting-fact {
+	font-style: italic;
+}
